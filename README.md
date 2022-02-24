@@ -1,10 +1,8 @@
-# Vite Typescript React 17 SSR
+# Principia Labs
 
 [![Node CI](https://github.com/jonluca/vite-typescript-ssr-react/actions/workflows/nodejs.yml/badge.svg)](https://github.com/jonluca/vite-typescript-ssr-react/actions/workflows/nodejs.yml)
 
 A *blazingly* modern web development stack. This template repo tries to achieve the minimum viable example for each of the following:
-
-![video](video.gif)
 
 * [React 17](https://reactjs.org/blog/2020/10/20/react-v17.html)
 * [Typescript 4.5](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/)
