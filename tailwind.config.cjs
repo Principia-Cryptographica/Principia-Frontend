@@ -12,6 +12,11 @@ module.exports = {
       160: "40rem",
       200: "50rem",
     },
+    extend: {
+      fontFamily: {
+        'eb-garamond': ['"EB Garamond"', 'serif']
+      }
+    }
   },
   variants: {},
   plugins: [],
